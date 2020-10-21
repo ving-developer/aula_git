@@ -1,1 +1,1 @@
-# aula_git
+Estamos na aula de git, aprendendo a  clonar um repositorio
